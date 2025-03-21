@@ -27,6 +27,7 @@
 ## 📫 Connect with me:
 - **Twitter**: [@Ashwin_1337](https://twitter.com/Ashwin_1337)  
 - **LinkedIn**: [Ashwin N](https://www.linkedin.com/in/ashwin-n-1-1-1-)  
-- **GitHub**: [AshwinNHacker(https://github.com/sasaki-101)  
+- **GitHub**: [AshwinNHacker](https://github.com/AshwinNHacker)
+
 
 🚀 Let's secure the digital world together!  
